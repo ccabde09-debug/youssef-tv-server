@@ -1,0 +1,12 @@
+{
+  "name": "youssef-tv-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for Youssef TV 6",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
